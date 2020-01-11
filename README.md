@@ -1,6 +1,4 @@
-# GANEstimator MNIST with tensorflow use Tensorflow-Gan lib
+# GANEstimator MNIST use Tensorflow-Gan lib
 
-##Requirements
+##Requirements <br />
 Please install all lib in requirements.txt
-
-Th
